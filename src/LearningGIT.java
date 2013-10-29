@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class LearningGIT {
 
 	/**
-     * We are learning
+     * This is committed. 
 	 * @param args
 	 */
 	public static void main(String[] args) {
