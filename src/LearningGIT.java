@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class LearningGIT {
 
 	/**
+     * We are learning
 	 * @param args
 	 */
 	public static void main(String[] args) {
