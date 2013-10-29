@@ -23,7 +23,7 @@ public class LearningGIT {
 					response = scr.next(); 	
 				}
 			} 
-			System.out.println("\nYay!!!!!!!!!!!!!!!!!!!!!");
+			System.out.println("\nYay!!!!!!!!!!!");
 		} else {	
 			System.out.println("\nYou are the reason user validation sucks so much.");
 		}
