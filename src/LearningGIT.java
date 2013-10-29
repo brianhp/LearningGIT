@@ -4,6 +4,7 @@ public class LearningGIT {
 
 	/**
      * We are learning
+     * Blind pull
 	 * @param args
 	 */
 	public static void main(String[] args) {
